@@ -1,0 +1,17 @@
+[project]
+name = "python-security-lab"
+version = "0.1.0"
+description = "python security"
+readme = "readme.md"
+requires-python = ">=3.14"
+
+[tool.ruff]
+indent-width = 2
+exclude = [
+  ".git",
+  ".venv",
+  ".pyenv",
+  ".vscode",
+  "__pypackages__",
+  "_build",
+]

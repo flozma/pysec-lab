@@ -112,7 +112,7 @@ class NetCat:
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(
-    description="Net Tool",
+    description="Mini NetCat(nc)",
     formatter_class=argparse.RawDescriptionHelpFormatter,
     epilog=textwrap.dedent(
       """Example:

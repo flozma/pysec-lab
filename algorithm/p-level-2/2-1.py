@@ -1,4 +1,4 @@
-# 올바른 괄호
+# 올바른 괄호 [스택 / 큐]
 
 def solution(s):
     stack = list()

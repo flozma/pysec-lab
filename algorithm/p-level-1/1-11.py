@@ -1,4 +1,4 @@
-# 음양 더하기
+# 음양 더하기 [월간 코드 챌린지 시즌 2]
 
 def solution1(absolutes, signs):
     answer = 0

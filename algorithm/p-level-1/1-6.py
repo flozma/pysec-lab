@@ -1,4 +1,4 @@
-# 정수 제곱근 판별하기
+# 정수 제곱근 판별 [연습문제]
 
 from math import sqrt
 

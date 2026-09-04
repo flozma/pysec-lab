@@ -1,4 +1,4 @@
-# 없는 숫자 더하기
+# 없는 숫자 더하기 [연습문제]
 
 def solution(numbers):
     answer = 0

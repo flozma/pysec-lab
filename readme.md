@@ -1,6 +1,6 @@
 # Python Security Lab
 
-### algorithm
+### Algorithm
   - essential
     - list, dict, set, tuple
     - Stack, Queue
@@ -15,7 +15,7 @@
     - unsupervised learning (clustering - DBSCAN, k-means)
 
 
-### network hack
+### Network Hack
 - utilize basic network tools
 - snipping tools
 - Scapy
